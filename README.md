@@ -1,2 +1,3 @@
 # Adding-Up-Times-with-Reduce
-Created using Adding Up Times with Reduce (JavaScript30)
+
+- A Javascript project that gets the total seconds of all the videos and then converts it to the total hours, minutes, and seconds.
